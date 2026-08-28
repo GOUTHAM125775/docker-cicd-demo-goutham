@@ -14,7 +14,7 @@ pipeline {
                 echo 'Cloning source code...'
 
                 git branch: 'main',
-                    url: 'https://github.com/ujwalshetty7022/docker-cicd-demo.git'
+                    url: 'https://github.com/GOUTHAM125775/docker-cicd-demo-goutham.git'
             }
         }
 
